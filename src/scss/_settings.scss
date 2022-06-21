@@ -81,7 +81,7 @@ a {
 .container {
   margin: 0 auto;
   padding: 0 var(--container-offset);
-  max-width: var(--container-width);
+  max-width: 1260px;
 }
 
 .js-focus-visible :focus:not(.focus-visible) {
@@ -105,3 +105,4 @@ a {
 .page--ios .dis-scroll {
   position: relative;
 }
+
